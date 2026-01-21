@@ -50,8 +50,8 @@ github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERo
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
 github.com/aws/aws-sdk-go v1.55.8 h1:JRmEUbU52aJQZ2AjX4q4Wu7t4uZjOu71uyNmaWlUkJQ=
 github.com/aws/aws-sdk-go v1.55.8/go.mod h1:ZkViS9AqA6otK+JBBNH2++sx1sgxrPKcSzPPvQkUtXk=
-github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8 h1:ZK8BVzgiGJL3yrS2WBQ7E42KXJfYF2nXwd36z11+qLw=
-github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8/go.mod h1:UywN9i54VZcAH9/BIxpUDnOZCiKapd95kJKcEFUcrAY=
+github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17 h1:qmOsGOuMXtLYJO4F3hyFa1OIR4YOaBGcw7po4WHL1l4=
+github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17/go.mod h1:rpo1jnGvWKh/quqgkHt0YlEVM1n0MakjVv9B6ojIVfA=
 github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
 github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
 github.com/bugsnag/bugsnag-go v2.5.0+incompatible h1:VaOzYsDHzQsAFk5EGg0URdLFVw5/aorIEAKFvFFvmv8=
